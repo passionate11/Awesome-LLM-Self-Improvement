@@ -179,6 +179,8 @@ Prompting uses carefully crafted prompts to enable few-shot or zero-shot learnin
 
 * URIAL: [The Unlocking Spell on Base LLMs: Rethinking Alignment via In-Context Learning](https://openreview.net/forum?id=wxJ0eXwwda) (Lin et al., ICLR 2024) ([Code](https://github.com/Re-Align/urial))
 
+* TAR: [Translate-and-Revise: Boosting Large Language Models for Constrained Translation](https://aclanthology.org/2024.ccl-1.82/) (Huang et al., CCL 2024)
+
 
 ### Disturbed Prompt
 
